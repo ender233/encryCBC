@@ -1,5 +1,7 @@
-### encryCBC
-verification of en/decryption for AES cbc mode using https://github.com/randombit/botan 
+encryCBC
+---
+
+verification of en/decryption for AES cbc mode using https://github.com/randombit/botan
 
 ### help
 ```
@@ -15,3 +17,8 @@ All options:
 original Text:Changeme_123
 after encry result is:c88516b4464c14f66c4d155c6f901cae
 ```
+
+### dependency
+* [加解密算法库botan](https://github.com/randombit/botan)
+* [boost program_options](http://www.boost.org/doc/libs/1_64_0/doc/html/boost/program_options/options_description.html)
+* [prettyprint](https://github.com/louisdx/cxx-prettyprint)
