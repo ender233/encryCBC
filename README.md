@@ -3,7 +3,7 @@ verification of en/decryption for AES cbc mode using https://github.com/randombi
 
 ### help
 ```
-liu@liu-XPS-13-9343:~/Project/encryCBC$ ./encryCBC --help
+9343:~/Project/encryCBC$ ./encryCBC --help
 All options:
 -d [ --direction ] arg (=0)       0-encryption 1-decryption
 -t [ --text ] arg (=Changeme_123) encryText or decryText
