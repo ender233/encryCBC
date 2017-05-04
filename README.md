@@ -12,7 +12,7 @@ All options:
 -h [ --help ]                     generate help message, just support AES128
                                   example1: ./encryCBC -d0 -tChangeme_123
                                   example2: ./encryCBC -d1 -tc88516b4464c14f66c4d155c6f901cae
-                                  example3:./encryCBC -tChangeme_123
+                                  example3: ./encryCBC -tChangeme_123
 
 original Text:Changeme_123
 after encry result is:c88516b4464c14f66c4d155c6f901cae
